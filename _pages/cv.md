@@ -12,12 +12,15 @@ Full version of CV can be found [here](https://nsssss.github.io/files/Resume_Shu
 
 Education
 ======
-* |Concordia University, Montreal, Canada|01/2019 - 04/2021 (expected)|
-  |:-|-:|
-* Concordia University, Montreal, Canada 01/2019 - 04/2021 (expected)
-  * M.Sc. in Electrical and Computer Engineering, 
-* M.Sc. in Electrical and Computer Engineering, University of Manitoba, Manitoba, Canada 09/2017 - 12/2018
-* B.Eng. in Electronics Information Engineering, University of Electronic Science and Technology of China (电子科技大学), Chengdu, China, 09/2013 - 06/2017
+* **Concordia University**, Montreal, Canada, 01/2019 - 04/2021 (expected)
+  * M.Sc. in Electrical and Computer Engineering
+  * GPA: 4.30/4.30
+* **University of Manitoba**, Manitoba, Canada, 09/2017 - 12/2018
+  * M.Sc. in Electrical and Computer Engineering
+  * GPA: 4.13/4.50
+* **University of Electronic Science and Technology of China (电子科技大学)**, Chengdu, China, 09/2013 - 06/2017
+  * B.Eng. in Electronics Information Engineering
+  * GPA: 3.47/4.00
 
 Professional experience
 ======
