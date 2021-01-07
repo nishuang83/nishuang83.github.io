@@ -8,52 +8,40 @@ redirect_from:
 ---
 
 {% include base_path %}
+Full version of CV can be found here.
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Electrical and Computer Engineering, Concordia University, Montreal, Canada 2019 - 2021 (expected)
+* M.Sc. in Electrical and Computer Engineering, University of Manitoba, Manitoba, Canada 2017 - 2018
+* B.Eng. in electronics Information Engineering, University of Electronic Science and Technology of China (电子科技大学), Chengdu, China, 2013 - 2017
 
-Work experience
+Professional experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 09/2017 - 04/2021: Research Assistant
+  * [Network Intelligence and Innovation Laboratory](https://users.encs.concordia.ca/~juncai/), University of Manitoba & Concordia University
+  * Supervisor: Professor [Jun Cai](https://www.concordia.ca/faculty/jun-cai.html)
+  * Projects: 
+    * Muscle Oxygen Saturation Quantitative Measurement and Fault Diagnostic (Master's Thesis)
+    * Deep Learning Mechanism of Revenue Maximization in Mobile Edge Computing
 
-* Fall 2015: Research Assistant
+* 02/2017 - 06/2017: Research Assistant
   * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Project: Low-complexity Algorithm of Massive MIMO Detection
+  * Supervisor: Professor Jun Tong
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+* Programming: Python, C, C++, R
+  * Deep learning: TensorFlow
+  * Machine learning: scikit-learn
+  * Parallel Computing: MPI, OpenMP, OpenCL, CUDA
+  * Image processing: OpenCV
+* Tools: Matlab, Mathematica, Linux, GitHub
+ 
+Honors & Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Concordia Split Merit Scholarship, 2019 & 2020
+* International Graduate Student Entrance Scholarship of University of Manitoba, 2017
+* Third-class Scholarship of UESTC, 2016
+* Outstanding Volunteer of UESTC, 2014
