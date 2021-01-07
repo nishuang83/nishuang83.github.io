@@ -33,8 +33,8 @@ Professional experience
 
 * 02/2017 - 06/2017: Research Assistant
   * University of Wollongong, NSW, Australia
-  * Project: Low-complexity Algorithm of Massive MIMO Detection (Bachelor's Dissertation)
   * Supervisor: Dr. [Jun Tong](https://scholars.uow.edu.au/display/jun_tong)
+  * Project: Low-complexity Algorithm of Massive MIMO Detection (Bachelor's Dissertation)
   
 Skills
 ======
