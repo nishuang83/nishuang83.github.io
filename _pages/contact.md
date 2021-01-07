@@ -1,11 +1,12 @@
 ---
-layout: contact
+layout: archive
 title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
+
 {% include base_path %}
-# Contact
+# Contact Information
 Electrical and Computer Engineering, Concordia University<br>
 EV10.235, 1515 Saint-Catherine St West, <br>
 Montreal, QC, Canada H3G 2W1<br>
