@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Full version of CV can be found [here](files/Resume_Shuang Ni_2021.pdf).
+Full version of CV can be found [here](https://nsssss.github.io/files/Resume_Shuang Ni_2021.pdf).
 
 Education
 ======
