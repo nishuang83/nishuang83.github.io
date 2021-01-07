@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Shuang Ni / Site Title"
+title                    : "Shuang Ni"
 title_separator          : "-"
 name                     : &name "Shuang Ni"
 description              : &description "M.Sc. student in Electrical and Computer Engineering, Concordia University"
 url                      : https://nsssss.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nsssss/nsssss.github.io"
+repository               : "nsssss.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shuang Ni"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "M.Sc. student in Electrical and Computer Engineering, Concordia University"
   location         : "Montreal, Canada"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
