@@ -12,7 +12,10 @@ Full version of CV can be found [here](https://nsssss.github.io/files/Resume_Shu
 
 Education
 ======
-* M.Sc. in Electrical and Computer Engineering, Concordia University, Montreal, Canada 01/2019 - 04/2021 (expected)
+* |Concordia University, Montreal, Canada|01/2019 - 04/2021 (expected)|
+  |:-|-:|
+* Concordia University, Montreal, Canada 01/2019 - 04/2021 (expected)
+  * M.Sc. in Electrical and Computer Engineering, 
 * M.Sc. in Electrical and Computer Engineering, University of Manitoba, Manitoba, Canada 09/2017 - 12/2018
 * B.Eng. in Electronics Information Engineering, University of Electronic Science and Technology of China (电子科技大学), Chengdu, China, 09/2013 - 06/2017
 
@@ -33,10 +36,10 @@ Professional experience
 Skills
 ======
 * Programming: Python, C, C++, R
-  * Deep learning: TensorFlow
-  * Machine learning: scikit-learn
+  * Deep Learning: TensorFlow
+  * Machine Learning: scikit-learn
   * Parallel Computing: MPI, OpenMP, OpenCL, CUDA
-  * Image processing: OpenCV
+  * Image Processing: OpenCV
 * Tools: Matlab, Mathematica, Linux, GitHub
  
 Honors & Awards
