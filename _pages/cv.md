@@ -12,9 +12,9 @@ Full version of CV can be found [here](files/Resume_Shuang Ni_2021.pdf).
 
 Education
 ======
-* M.Sc. in Electrical and Computer Engineering, Concordia University, Montreal, Canada 2019 - 2021 (expected)
-* M.Sc. in Electrical and Computer Engineering, University of Manitoba, Manitoba, Canada 2017 - 2018
-* B.Eng. in electronics Information Engineering, University of Electronic Science and Technology of China (电子科技大学), Chengdu, China, 2013 - 2017
+* M.Sc. in Electrical and Computer Engineering, Concordia University, Montreal, Canada 01/2019 - 04/2021 (expected)
+* M.Sc. in Electrical and Computer Engineering, University of Manitoba, Manitoba, Canada 09/2017 - 12/2018
+* B.Eng. in Electronics Information Engineering, University of Electronic Science and Technology of China (电子科技大学), Chengdu, China, 09/2013 - 06/2017
 
 Professional experience
 ======
@@ -26,9 +26,9 @@ Professional experience
     * Deep Learning Mechanism of Revenue Maximization in Mobile Edge Computing
 
 * 02/2017 - 06/2017: Research Assistant
-  * Github University
-  * Project: Low-complexity Algorithm of Massive MIMO Detection
-  * Supervisor: Professor Jun Tong
+  * University of Wollongong, NSW, Australia
+  * Project: Low-complexity Algorithm of Massive MIMO Detection (Bachelor's Dissertation)
+  * Supervisor: Dr. [Jun Tong](https://scholars.uow.edu.au/display/jun_tong)
   
 Skills
 ======
