@@ -9,7 +9,7 @@
 locale                   : "en-CA"
 title                    : "Shuang Ni (倪爽)"
 title_separator          : "-"
-name                     : &name "Shuang Ni (倪爽)"
+name                     : &name "Shuang Ni"
 description              : &description "M.Sc. student in Electrical and Computer Engineering, Concordia University"
 url                      : https://nishuang83.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
