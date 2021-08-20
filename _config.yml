@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Home"
-title_separator          : "-"
+title                    : "Shuang Ni's Home Page"
+title_separator          : "•"
 name                     : &name "Shuang Ni"
 description              : &description "PhD student in Computer Science @ Mila - Quebec AI Institute & Université de Montréal"
 url                      : https://nishuang83.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
