@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : shuang.ni@umontreal.ca "shuang.ni@umontreal.ca"
+  email            : "shuang.ni@umontreal.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/shuang-ni"
+  linkedin         : "https://www.linkedin.com/in/shuang-ni/"
   orcid            : 
   pinterest        :
   soundcloud       :
