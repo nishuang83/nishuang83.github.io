@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Shuang Ni"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Shuang Ni"
 description              : &description "PhD student in Computer Science @ Mila - Quebec AI Institute & Université de Montréal"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "shuang.ni@umontreal.ca"
+  email            : shuang.ni@umontreal.ca "shuang.ni@umontreal.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
