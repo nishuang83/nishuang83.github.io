@@ -13,6 +13,6 @@ I am a first-year Ph.D. student in Computer Science at [MILA - Quebec Artificial
 
 Before joining MILA, I got the M.Sc. degree (2021) in Electrical and Computer Engineering from [Concordia University](https://www.concordia.ca/), and was a graduate researcher at Network Intelligence and Innovation Laboratory, under the supervision of [Prof. Jun Cai](https://users.encs.concordia.ca/~juncai/). During my master's studies, I focused on biomedical signal processing, machine learning, and deep learning in telecommunications. Prior to that, I obtained my bachelor's degree (2017) from [University of Electronic Science and Technology of China(电子科技大学)](https://en.uestc.edu.cn/). My undergraduate thesis was completed under the supervision of [Dr. Jun Tong](https://scholars.uow.edu.au/display/jun_tong) at [University of Wollongong](https://www.uow.edu.au/engineering-information-sciences/schools-entities/secte/).
 
-Contact:
+Contact
 ======
-email: shuang.ni@umontreal.ca
+**email:** shuang.ni@umontreal.ca
