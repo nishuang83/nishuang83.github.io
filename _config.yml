@@ -10,7 +10,7 @@ locale                   : "en-CA"
 title                    : "Shuang Ni (倪爽)"
 title_separator          : "-"
 name                     : &name "Shuang Ni"
-description              : &description "M.Sc. student in Electrical and Computer Engineering, Concordia University"
+description              : &description "PhD student in Computer Science @ Mila - Quebec AI Institute & Université de Montréal"
 url                      : https://nishuang83.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nishuang83.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shuang Ni (倪爽)"
+  name             : "Shuang Ni"
   avatar           : "photo2021.jpg"
-  bio              : "M.Sc. student in Electrical and Computer Engineering, Concordia University"
+  bio              : "PhD student in Computer Science @ Mila - UdeM"
   location         : "Montreal, Canada"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "shuang.ni@mail.concordia.ca"
+  email            : "shuang.ni@umontreal.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
