@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Shuang Ni (倪爽)"
+title                    : "Shuang Ni"
 title_separator          : "-"
 name                     : &name "Shuang Ni"
 description              : &description "PhD student in Computer Science @ Mila - Quebec AI Institute & Université de Montréal"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shuang Ni"
+  name             : "Shuang Ni (倪爽)"
   avatar           : "photo2021.jpg"
   bio              : "PhD student in Computer Science @ Mila - UdeM"
   location         : "Montreal, Canada"
