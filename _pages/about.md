@@ -16,4 +16,5 @@ Before joining MILA, I got the M.Sc. degree (2021) in Electrical and Computer En
 Contact
 ======
 **Email:** shuang.ni@mila.quebec
+
 **Mila Website:** [https://mila.quebec/en/person/shuang-ni/](https://mila.quebec/en/person/shuang-ni/)
