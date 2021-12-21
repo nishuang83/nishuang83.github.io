@@ -27,3 +27,4 @@ Then, it shows a command and paste it into Anaconda Prompt.
 Press Enter and follow the instruction of Anaconda Prompt (usually only press y).
 
 ## 3. Run code with VScode or Anaconda Prompt
+![VScodeRun]https://github.com/nishuang83/nishuang83.github.io/blob/master/images/post-images/2021-12-21-pytorch/VScodeRun.PNG
