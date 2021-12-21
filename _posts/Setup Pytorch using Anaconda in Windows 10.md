@@ -17,7 +17,7 @@ This blog is to give a tutorial of installing Pytorch in Windows 10 using [Anaco
 
 ## 1. Find a CUDA version compatible with your GPU
 
-## 2. Find a command to install Pytorch
+## 2. Install Pytorch
 
 ## 3. Run code with VScode or Anaconda Prompt
 
