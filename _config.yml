@@ -187,6 +187,9 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
+  Blog:
+    output: True
+    permalink: /:collection/:path/
 
 
 # Defaults
