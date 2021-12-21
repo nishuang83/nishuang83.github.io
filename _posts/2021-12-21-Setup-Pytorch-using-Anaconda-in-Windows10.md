@@ -26,4 +26,3 @@ Check the [PyTorch website](https://pytorch.org/get-started/locally/) to find th
 
 
 ## 3. Run code with VScode or Anaconda Prompt
-
