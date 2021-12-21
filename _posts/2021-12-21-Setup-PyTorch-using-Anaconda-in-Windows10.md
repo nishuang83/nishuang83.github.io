@@ -11,7 +11,6 @@ tags:
 # Setup PyTorch using Anaconda in Windows 10
 
 ### Author:Shuang
-### Date:2021-12-21
 
 This blog is to give a tutorial of installing PyTorch in Windows 10 using [Anaconda](https://www.anaconda.com/). Before this tutorial, Anaconda should be installed in advance. 
 
