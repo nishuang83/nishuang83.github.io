@@ -1,5 +1,5 @@
 ---
-title: 'Setup Pytorch using Anaconda in Windows 10'
+title: 'Setup PyTorch using Anaconda in Windows 10'
 date: 2021-12-21
 permalink: /posts/2021/12/Pytorch/
 tags:
@@ -22,7 +22,7 @@ This blog is to give a tutorial of installing PyTorch in Windows 10 using [Anaco
 ### 2.2 Install PyTorch
 Check the [PyTorch website](https://pytorch.org/get-started/locally/) to find the command to install the specific version of PyTorch. 
 Choose "Stable", "Windows", "Conda", "Python" and the proper version of CUDA. If there's no avaliable GPU i your computer, choose CPU.
-![image](https://github.com/nishuang83/nishuang83.github.io/blob/master/images/post-images/2021-12-21-pytorch/pytorch1.JPG)
+![PyTorch](https://github.com/nishuang83/nishuang83.github.io/blob/master/images/pytorch1.JPG)
 Then, it shows a command and paste it into Anaconda Prompt. 
 Press Enter and follow the instruction of Anaconda Prompt (usually only press y).
 
