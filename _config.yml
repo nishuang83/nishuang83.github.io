@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shuang Ni (倪爽)"
-  avatar           : "profilephoto2022.JPG"
+  avatar           : "profilephoto2021.jpg"
   bio              : "PhD student in Computer Science at Mila - UdeM"
   location         : "Montreal, Canada"
   employer         :
@@ -179,7 +179,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: True
     permalink: /:collection/:path/
   portfolio:
     output: false
@@ -188,7 +188,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   Blog:
-    output: True
+    output: false
     permalink: /:collection/:path/
 
 
