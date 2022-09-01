@@ -14,6 +14,7 @@ Education
 ======
 * **Université de Montréal**, Montreal, Canada, 09/2021 - present
   * Ph.D. in Computer Science
+  * GPA: 4.30/4.30
 * **Concordia University**, Montreal, Canada, 01/2019 - 04/2021
   * M.Sc. in Electrical and Computer Engineering
   * GPA: 4.30/4.30
@@ -26,12 +27,19 @@ Education
 
 Professional experience
 ======
+* 09/2021 - now: Research Assistant
+  * [Mila - Quebec AI Institute](https://mila.quebec/en/), Université de Montréal
+  * Supervisor: Professor [Guy Wolf](http://guywolf.org/)
+  * Main Projects: 
+    * Data-driven approaches for genetic characterization of SARS-CoV-2 lineages
+    * Utilizing deep machine learning tools to discover novel biomarkers for multiple sclerosis(MS) disease and treatment response
+    * Applying Multiscale PHATE for single-cell transcriptomic analysis of Alzheimer’s disease
 * 09/2017 - 04/2021: Research Assistant
   * [Network Intelligence and Innovation Laboratory](https://users.encs.concordia.ca/~juncai/), University of Manitoba & Concordia University
   * Supervisor: Professor [Jun Cai](https://www.concordia.ca/faculty/jun-cai.html)
   * Main Projects: 
     * Muscle Oxygen Saturation Quantitative Measurement and Fault Diagnostic
-    * Deep Learning Mechanism of Revenue Maximization in Mobile Edge Computing
+    * [Deep Learning Mechanism of Revenue Maximization in Mobile Edge Computing](https://ieeexplore.ieee.org/document/9619925)
   * Thesis: [Quantitative Measurement of Muscle Oxygen Saturation Using 5-Wavelength Near-Infrared Spectroscopy with Fault Diagnostic](https://spectrum.library.concordia.ca/988003/).
 
 * 02/2017 - 06/2017: Research Assistant
@@ -41,8 +49,8 @@ Professional experience
   
 Skills
 ======
-* Programming: Python, C, C++, R
-  * Deep Learning: TensorFlow
+* Programming: Python, R, C, C++
+  * Deep Learning: PyTorch,TensorFlow
   * Machine Learning: scikit-learn
   * Parallel Computing: MPI, OpenMP, OpenCL, CUDA
   * Image Processing: OpenCV
@@ -50,7 +58,7 @@ Skills
  
 Honors & Awards
 ======
-* Bourse d’exemption UdeM, 2021
+* Bourse d’exemption Université de Montréal, 2021
 * Concordia Split Merit Scholarship, 2019 & 2020
 * International Graduate Student Entrance Scholarship of University of Manitoba, 2017
 * Third-class Scholarship of UESTC, 2016
