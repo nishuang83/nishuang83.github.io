@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Full version of CV can be found [here](https://nishuang83.github.io/files/Resume_Shuang_Ni_2021.pdf).
+Full version of CV can be found [here](https://nishuang83.github.io/files/Resume_Shuang_Ni_2023.pdf).
 
 Education
 ======
@@ -31,9 +31,10 @@ Professional experience
   * [Mila - Quebec AI Institute](https://mila.quebec/en/), Université de Montréal
   * Supervisor: Professor [Guy Wolf](http://guywolf.org/)
   * Main Projects: 
+    * Integration of VAE with RF-PHATE for Enhanced Supervised Dimensionality Reduction and Clustering
+    * Machine Learning-Based Biomarker Discovery and Cellular Landscape Analysis in Multiple Sclerosis
+    * Exploring Biological Features in Alzheimer's Disease through Single-Cell Data Analysis and Visualization
     * Data-driven approaches for genetic characterization of SARS-CoV-2 lineages
-    * Utilizing deep machine learning tools to discover novel biomarkers for multiple sclerosis(MS) disease and treatment response
-    * Applying Multiscale PHATE for single-cell transcriptomic analysis of Alzheimer’s disease
 * 09/2017 - 04/2021: Research Assistant
   * [Network Intelligence and Innovation Laboratory](https://users.encs.concordia.ca/~juncai/), University of Manitoba & Concordia University
   * Supervisor: Professor [Jun Cai](https://www.concordia.ca/faculty/jun-cai.html)
