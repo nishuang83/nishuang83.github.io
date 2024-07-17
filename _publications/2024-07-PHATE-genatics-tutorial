@@ -1,8 +1,9 @@
 ---
 title: "PHATE Representations Can Effectively Capture Continuous Population Structure in Human Genomic Data"
 collection: publications
-permalink: https://colab.research.google.com/drive/1B-pJMtgQJ97XL4UhuscR5NibF2D3Izt2?usp=sharing
+permalink: /publication/2024-07-PHATE-genatics-tutorial
 excerpt: 'A colab tutorial of visualizing and analyzing human genomic data. '
-venue: 'ELLIS Workshop on Geometry-grounded Representation Learning and Generative Modeling (GRaM Workshop @ ICML 2024)'
+venue: 'ELLIS Workshop on Geometry-grounded Representation Learning and Generative Modeling, GRaM Workshop @ ICML '
+date: 2024-07
+paperurl: 'https://colab.research.google.com/drive/1B-pJMtgQJ97XL4UhuscR5NibF2D3Izt2?usp=sharing'
 ---
-[Download paper here](https://colab.research.google.com/drive/1B-pJMtgQJ97XL4UhuscR5NibF2D3Izt2?usp=sharing)
