@@ -31,7 +31,8 @@ Professional experience
   * [Mila - Quebec AI Institute](https://mila.quebec/en/), Université de Montréal
   * Supervisor: Professor [Guy Wolf](http://guywolf.org/)
   * Main Projects: 
-    * Enhancing Supervised Visualization through Autoencoder and Random Forest Proximities for Out-of-Sample Extension
+    * [Enhancing Supervised Visualization through Autoencoder and Random Forest Proximities for Out-of-Sample Extension](https://arxiv.org/abs/2406.04421)
+    * [PHATE Representations Can Effectively Capture Continuous Population Structure in Human Genomic Data](https://colab.research.google.com/drive/1B-pJMtgQJ97XL4UhuscR5NibF2D3Izt2#scrollTo=hnDGbVOx-bZt))
     * Machine Learning-Based Biomarker Discovery and Cellular Landscape Analysis in Multiple Sclerosis
     * Exploring Biological Features in Alzheimer's Disease through Single-Cell Data Analysis and Visualization
     * Data-driven approaches for genetic characterization of SARS-CoV-2 lineages
