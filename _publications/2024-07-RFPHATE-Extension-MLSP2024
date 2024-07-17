@@ -1,0 +1,9 @@
+---
+title: "Enhancing Supervised Visualization through Autoencoder and Random Forest Proximities for Out-of-Sample Extension"
+collection: publications
+permalink: https://arxiv.org/abs/2406.04421
+excerpt: 'In this paper, we provide an out-of-sample extension method for the random forest-based supervised dimensionality reduction method, RF-PHATE, combining information learned from the random forest model with the function-learning capabilities of autoencoders.'
+date: 2024-07-17
+venue: 'IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2024'
+citation: 'Shuang Ni, Adrien Aumon, Guy Wolf, Kevin R. Moon, Jake S. Rhodes, "Truthful Deep Mechanism Design for Revenue-Maximization in Edge Computing With Budget Constraints," in IEEE Transactions on Vehicular Technology, vol. 71, no. 1, pp. 902-914, Jan. 2022, doi: 10.1109/TVT.2021.3129098.'
+---
