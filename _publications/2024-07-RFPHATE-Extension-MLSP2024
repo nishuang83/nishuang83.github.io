@@ -4,6 +4,8 @@ collection: publications
 permalink: /publication/2024-07-RFPHATE-Extension-MLSP2024
 excerpt: 'An out-of-sample extension method for the random forest-based supervised dimensionality reduction method, RF-PHATE, combining information learned from the random forest model with the function-learning capabilities of autoencoders.'
 venue: 'IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2024'
+date: 2024-07-12
 paperurl: https://arxiv.org/abs/2406.04421
 ---
+
 Author: Shuang Ni, Adrien Aumon, Guy Wolf, Kevin R. Moon, Jake S. Rhodes
