@@ -6,3 +6,4 @@ permalink: https://arxiv.org/abs/2406.04421
 excerpt: 'In this paper, we provide an out-of-sample extension method for the random forest-based supervised dimensionality reduction method, RF-PHATE, combining information learned from the random forest model with the function-learning capabilities of autoencoders.'
 venue: 'IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2024'
 ---
+[Download paper here](https://arxiv.org/abs/2406.04421)
