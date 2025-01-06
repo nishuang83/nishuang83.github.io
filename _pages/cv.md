@@ -18,8 +18,9 @@ Education
 * **Concordia University**, Montreal, Canada, 01/2019 - 04/2021
   * M.Sc. in Electrical and Computer Engineering
   * GPA: 4.30/4.30
-* **University of Manitoba**, Manitoba, Canada, 09/2017 - 12/2018
+* **University of Manitoba**, Winnipeg, Canada, 09/2017 - 12/2018
   * M.Sc. in Electrical and Computer Engineering, transferred
+  * Courses: Statistical Aspect of Machine Learning, Parallel Processing, Advanced Signal Processing, Digital Image Processing
   * GPA: 4.13/4.50
 * **University of Electronic Science and Technology of China (电子科技大学)**, Chengdu, China, 09/2013 - 06/2017
   * B.Eng. in Electronics Information Engineering
@@ -27,16 +28,17 @@ Education
 
 Professional experience
 ======
-* 09/2021 - now: Research Assistant
+* 09/2021 - now: Doctoral Research Associate
   * [Mila - Quebec AI Institute](https://mila.quebec/en/), Université de Montréal
   * Supervisor: Professor [Guy Wolf](http://guywolf.org/)
-  * Main Projects: 
-    * [Enhancing Supervised Visualization through Autoencoder and Random Forest Proximities for Out-of-Sample Extension](https://arxiv.org/abs/2406.04421)
-    * [PHATE Representations Can Effectively Capture Continuous Population Structure in Human Genomic Data](https://colab.research.google.com/drive/1B-pJMtgQJ97XL4UhuscR5NibF2D3Izt2#scrollTo=hnDGbVOx-bZt))
+  * Main Projects:
+    * [Enhancing Semi-Supervised Visualization through Autoencoder and Random Forest Proximities for Out-of-Sample Extension](https://arxiv.org/abs/2406.04421)
+    * Modeling Dynamic Mechanisms of Drug Treatment Effects with GeoSinkhorn Flow
+    * [Capture Continuous Population Structure in Human Genomic Biobanks](https://colab.research.google.com/drive/1B-pJMtgQJ97XL4UhuscR5NibF2D3Izt2#scrollTo=hnDGbVOx-bZt))
     * Machine Learning-Based Biomarker Discovery and Cellular Landscape Analysis in Multiple Sclerosis
     * Exploring Biological Features in Alzheimer's Disease through Single-Cell Data Analysis and Visualization
     * Data-driven approaches for genetic characterization of SARS-CoV-2 lineages
-* 09/2017 - 04/2021: Research Assistant
+* 09/2017 - 04/2021: Graduate Research Associate
   * [Network Intelligence and Innovation Laboratory](https://users.encs.concordia.ca/~juncai/), University of Manitoba & Concordia University
   * Supervisor: Professor [Jun Cai](https://www.concordia.ca/faculty/jun-cai.html)
   * Main Projects: 
@@ -53,10 +55,10 @@ Skills
 ======
 * Programming: Python, R, C, C++
   * Deep Learning: PyTorch,TensorFlow
-  * Machine Learning: scikit-learn
+  * Machine Learning: Scikit-learn
   * Parallel Computing: MPI, OpenMP, OpenCL, CUDA
   * Image Processing: OpenCV
-* Tools: Matlab, Mathematica, Linux, GitHub
+* Tools: MATLAB, Mathematica, Linux OS, GitHub, SLURM
  
 Honors & Awards
 ======
