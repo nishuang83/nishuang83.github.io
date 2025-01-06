@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Full version of CV can be found [here](https://nishuang83.github.io/files/Resume_Shuang_Ni_2023.pdf).
+Full version of CV can be found [here](https://nishuang83.github.io/files/Resume_Shuang_Ni_2025.pdf).
 
 Education
 ======
@@ -34,7 +34,7 @@ Professional experience
   * Main Projects:
     * [Enhancing Semi-Supervised Visualization through Autoencoder and Random Forest Proximities for Out-of-Sample Extension](https://arxiv.org/abs/2406.04421)
     * Modeling Dynamic Mechanisms of Drug Treatment Effects with GeoSinkhorn Flow
-    * [Capture Continuous Population Structure in Human Genomic Biobanks](https://colab.research.google.com/drive/1B-pJMtgQJ97XL4UhuscR5NibF2D3Izt2#scrollTo=hnDGbVOx-bZt))
+    * [Capture Continuous Population Structure in Human Genomic Biobanks](https://colab.research.google.com/drive/1B-pJMtgQJ97XL4UhuscR5NibF2D3Izt2#scrollTo=hnDGbVOx-bZt)
     * Machine Learning-Based Biomarker Discovery and Cellular Landscape Analysis in Multiple Sclerosis
     * Exploring Biological Features in Alzheimer's Disease through Single-Cell Data Analysis and Visualization
     * Data-driven approaches for genetic characterization of SARS-CoV-2 lineages
