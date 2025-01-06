@@ -9,4 +9,4 @@ author_profile: true
 
 Email: 
 <br>
-shuang.ni@umontreal.ca
+ni_shuang@yahoo.com
