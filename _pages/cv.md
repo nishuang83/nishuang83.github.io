@@ -38,6 +38,13 @@ Professional experience
     * Machine Learning-Based Biomarker Discovery and Cellular Landscape Analysis in Multiple Sclerosis
     * Exploring Biological Features in Alzheimer's Disease through Single-Cell Data Analysis and Visualization
     * Data-driven approaches for genetic characterization of SARS-CoV-2 lineages
+  
+* 05/2025 - 08/2025: Senior Data Science Intern
+  * Analysis Group, Montreal, Canada
+  * Main Projects:
+    * Synthetic Patient Journey Generation using generative AI: Extended an existing Conditional Restricted Boltzmann Machine model by incorporating additional patient history and integrating an autoencoder for fixed-length embeddings. Applied normalization techniques, tuned hyperparameters, and migrated the model to a larger dataset. Improved real-world pattern preservation, resolved systematic drift in synthetic variables, identified and diagnosed performance issues, and supported evaluation and validation of the improved model.
+    * Total Loss Vehicle Price Validation Study: Led data cleaning and statistical analysis for a litigation case involving insurance company total loss payouts. Built a validation pipeline, selected relevant features from provided data, and developed machine learning models for total loss vehicle price prediction, achieving higher accuracy than the insurance company’s algorithm. 
+    
 * 09/2017 - 04/2021: Graduate Research Associate
   * [Network Intelligence and Innovation Laboratory](https://users.encs.concordia.ca/~juncai/), University of Manitoba & Concordia University
   * Supervisor: Professor [Jun Cai](https://www.concordia.ca/faculty/jun-cai.html)
