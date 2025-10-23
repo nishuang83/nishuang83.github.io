@@ -62,11 +62,12 @@ Professional experience
 Skills
 ======
 * Programming: Python, R, C, C++
-  * Deep Learning: PyTorch,TensorFlow
+  * Deep Learning: PyTorch, TensorFlow, Pytorch Lightning
   * Machine Learning: Scikit-learn
+  * Data Analysis: NumPy, Pandas, Polars, Seaborn, Scanpy
   * Parallel Computing: MPI, OpenMP, OpenCL, CUDA
   * Image Processing: OpenCV
-* Tools: MATLAB, Mathematica, Linux OS, GitHub, SLURM
+* Tools: MATLAB, Mathematica, Linux OS, GitHub, SLURM, Weight & Bias, Hydra
  
 Honors & Awards
 ======
