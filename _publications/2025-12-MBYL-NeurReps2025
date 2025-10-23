@@ -1,0 +1,12 @@
+---
+title: "Measure Before You Look: Grounding Embeddings Through Manifold Metrics"
+author: César Miguel Valdez Córdova, Matthew Scicluna, Shuang Ni, Smita Krishnaswamy, Simon Gravel, Guy Wolf
+collection: publications
+permalink: /publication/2025-12-MBYL-NeurReps2025
+excerpt: 'Guided manifold learning and semi-supervised visualization with natural out-of-sample extension based on random forest proximities and diffusion geometry-regularized autoencoder architecture.'
+date: 2025-12-06
+venue: 'NeurReps workshop & UniReps workshop @ NeurIPS 2025)'
+paperurl: 'https://openreview.net/pdf?id=5Yn9xJ265d'
+---
+
+[Download paper here](https://openreview.net/pdf?id=5Yn9xJ265d)
