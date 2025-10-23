@@ -57,10 +57,6 @@ layout: default
           </p>
         {% endif %}
       
-        {% if page.venue %}
-          <p class="page__venue"><em>Published in {{ page.venue }}</em></p>
-        {% endif %}
-      
         {% if page.citation and page.paperurl %}
           <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% elsif page.citation %}
