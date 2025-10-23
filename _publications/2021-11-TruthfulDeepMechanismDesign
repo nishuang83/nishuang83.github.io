@@ -3,7 +3,7 @@ title: "Truthful Deep Mechanism Design for Revenue-Maximization in Edge Computin
 author: Gang Li, Jun Cai, Shuang Ni
 collection: publications
 excerpt: 'A new approach of collaborative task offloading in edge computing, called truthful deep mechanism, is proposed by leveraging a multi-task machine learning model, where inherently inter-connected collaborator selection and pricing policy determination are decided by designing two deep neural networks.'
-date: 2022-01-01
+date: 2021-11-18
 venue: 'IEEE Transactions on Vehicular Technology ( Volume: 71, Issue: 1)'
 paperurl: 'https://ieeexplore.ieee.org/document/9619925'
 ---
