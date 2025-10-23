@@ -52,6 +52,24 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+
+        {% if page.author %}
+          <p class="page__author"><strong>Authors:</strong> {{ page.author | join: ", " }}</p>
+        {% endif %}
+      
+        {% if page.venue %}
+          <p class="page__venue"><em>Published in {{ page.venue }}</em></p>
+        {% endif %}
+      
+        {% if page.paperurl %}
+          <p class="page__paperurl"><a href="{{ page.paperurl }}"><u>Download PDF</u></a></p>
+        {% endif %}
+      
+        {% if page.excerpt %}
+          <div class="page__excerpt">
+            {{ page.excerpt | markdownify }}
+          </div>
+        {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
