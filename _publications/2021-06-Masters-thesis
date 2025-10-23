@@ -1,0 +1,9 @@
+---
+title: "Quantitative Measurement of Muscle Oxygen Saturation Using 5-Wavelength Near-Infrared Spectroscopy with Fault Diagnostic"
+author: Shuang Ni
+collection: publications
+excerpt: 'Developed algorithm for a wearable near-infrared spectroscopy (NIRS) device to measure muscle oxygen saturation (SmO<sub>2</sub>) for localized fatigue monitoring. Proposed a fault-diagnostic method using SVM classifiers achieving >97% accuracy to detect device misplacement during exercise. Built a MATLAB App Designer interface integrating SmO<sub>2</sub> computation, diagnostics, and real-time wireless visualization..'
+date: 2021-06-29
+venue: 'Masters thesis, Concordia University.'
+paperurl: 'https://spectrum.library.concordia.ca/id/eprint/988003/'
+---
