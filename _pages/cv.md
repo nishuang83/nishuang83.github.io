@@ -32,9 +32,10 @@ Professional experience
   * [Mila - Quebec AI Institute](https://mila.quebec/en/), Université de Montréal
   * Supervisor: Professor [Guy Wolf](http://guywolf.org/)
   * Main Projects:
-    * [Enhancing Semi-Supervised Visualization through Autoencoder and Random Forest Proximities for Out-of-Sample Extension](https://arxiv.org/abs/2406.04421)
+    * Enhancing Semi-Supervised Visualization with Autoencoders and Random Forest Proximities for Out-of-Sample Extension, [NeurIPS 2025](https://openreview.net/pdf?id=NjxW4m6KdH), [MLSP 2024](https://ieeexplore.ieee.org/document/10734764)
     * Modeling Dynamic Mechanisms of Drug Treatment Effects with GeoSinkhorn Flow
     * [Capture Continuous Population Structure in Human Genomic Biobanks](https://colab.research.google.com/drive/1B-pJMtgQJ97XL4UhuscR5NibF2D3Izt2#scrollTo=hnDGbVOx-bZt)
+    * Geometry-aware framework using intrinsic dimensionality metrics to assess embedding quality, [NeurReps workshop & UniReps Workshop @ NeurIPS 2025](https://openreview.net/pdf?id=5Yn9xJ265d)
     * Machine Learning-Based Biomarker Discovery and Cellular Landscape Analysis in Multiple Sclerosis
     * Exploring Biological Features in Alzheimer's Disease through Single-Cell Data Analysis and Visualization
     * Data-driven approaches for genetic characterization of SARS-CoV-2 lineages
