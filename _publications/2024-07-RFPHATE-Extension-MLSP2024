@@ -1,6 +1,6 @@
 ---
 title: "Enhancing Supervised Visualization through Autoencoder and Random Forest Proximities for Out-of-Sample Extension"
-author: <u>Shuang Ni</u>, Adrien Aumon, Guy Wolf, Kevin R. Moon, Jake S. Rhodes
+author: Shuang Ni, Adrien Aumon, Guy Wolf, Kevin R. Moon, Jake S. Rhodes
 collection: publications
 excerpt: 'An out-of-sample extension method for the random forest-based supervised dimensionality reduction method, RF-PHATE, combining information learned from the random forest model with the function-learning capabilities of autoencoders.'
 venue: 'IEEE International Workshop on Machine Learning for Signal Processing (MLSP) 2024'
