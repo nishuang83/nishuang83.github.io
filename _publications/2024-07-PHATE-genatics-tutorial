@@ -1,6 +1,6 @@
 ---
 title: "PHATE Representations Can Effectively Capture Continuous Population Structure in Human Genomic Data"
-Author: Matthew Scicluna, <u>Shuang Ni</u>, Jean-Christophe Grenier, Raphael Poujol, Kevin R. Moon, Guy Wolf, Sebastien Lemieux, Smita Krishnaswamy, Julie G Hussin
+author: Matthew Scicluna, <u>Shuang Ni</u>, Jean-Christophe Grenier, Raphael Poujol, Kevin R. Moon, Guy Wolf, Sebastien Lemieux, Smita Krishnaswamy, Julie G Hussin
 collection: publications
 excerpt: 'A colab tutorial of visualizing and analyzing human genomic data. '
 venue: 'ELLIS Workshop on Geometry-grounded Representation Learning and Generative Modeling, GRaM Workshop @ ICML '
