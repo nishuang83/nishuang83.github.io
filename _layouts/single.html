@@ -39,6 +39,12 @@ layout: default
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }} </p>
         {% endif %}
+
+        {% if page.citation and page.paperurl %}
+          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
+        {% elsif page.citation %}
+          <p>Recommended citation: {{ page.citation }} </p>
+        {% endif %}
  
         </header>
       {% endunless %}
@@ -46,21 +52,10 @@ layout: default
       <section class="page__content" itemprop="text">
 
         {% if page.author %}
-          <p class="page__author"><strong>Authors:</strong>
-            {% for name in page.author %}
-              {% if name contains "Shuang Ni" %}
-                <u>{{ name }}</u>{% unless forloop.last %}, {% endunless %}
-              {% else %}
-                {{ name }}{% unless forloop.last %}, {% endunless %}
-              {% endif %}
-            {% endfor %}
-          </p>
+          <p class="page__author"><strong>Authors:</strong> {{ page.author | join: ", " }}</p>
         {% endif %}
-      
-        {% if page.citation and page.paperurl %}
-          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
-        {% elsif page.citation %}
-          <p>Recommended citation: {{ page.citation }} </p>
+        {% if page.paperurl %}
+          <p class="page__paperurl"><a href="{{ page.paperurl }}"><u>Download PDF</u></a></p>
         {% endif %}
       
         {% if page.excerpt %}
